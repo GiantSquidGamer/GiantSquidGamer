@@ -3,7 +3,7 @@
 - 🤖 I know CAD and 3D Printing!
 - 🥧 I love Raspberry Pi!
 - 📱 I know Figma!
-
+- 🎮 I like Video Games!
 
 <!---
 GiantSquidGamer/GiantSquidGamer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
