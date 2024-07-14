@@ -1,5 +1,8 @@
-- 🦑 Hi, I’m @GiantSquidGamer
-- 🌱 I know Python, learning Java, and want to learn C++
+- 🦑 Hi, I’m @GiantSquidGamer!
+- 🌱 I know Python, learning Java, and want to learn C++!
+- 🤖 I know CAD and 3D Printing!
+- 🥧 I love Raspberry Pi!
+- 📱 I know Figma!
 
 
 <!---
