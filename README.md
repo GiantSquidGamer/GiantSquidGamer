@@ -3,6 +3,7 @@
 - 🎮 I like Video Games!
   > Fortnite,
   > Minecraft,
+  > Chess,
   > Call of Duty,
   > and More!
 
