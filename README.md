@@ -1,5 +1,5 @@
 - 🦑 Hi, I’m @GiantSquidGamer!
-- 🔨 Tools: XCode, Android Studio, Pycharm, IntelliJ, Fusion 360, macOS, Linux, Ultimaker Cura, Figma, Gimp, Aseprite, OBS, Slack, Tensor Flow, Raspberry PI, Python, Java, Stack Overflow, Chat GPT, GO, Pencil 2D, Discord, Github, Unreal Engine, and more!
+- 🔨 Tools: Pycharm, IntelliJ, Fusion 360, macOS, Linux, Ultimaker Cura, Figma, Gimp, Aseprite, OBS, Slack, Raspberry PI, Python, Java, Stack Overflow, Chat GPT, GO, Pencil 2D, Discord, Github, and more!
 - 🎮 I like Video Games!
   > Fortnite,
   > Minecraft,
