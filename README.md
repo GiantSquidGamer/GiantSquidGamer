@@ -1,1 +1,1 @@
-I'm @GiantSquidGamer on YouTube!
+@GiantSquidGamer
